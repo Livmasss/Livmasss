@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Livmasss
 - 👀 I’m interested in Java/Kotlin/Android
-- 🌱 I’m currently learning Java/Kotlin/Android
+- 🌱 I’m currently learning Kotlin Multiplatform
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
